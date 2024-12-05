@@ -1,0 +1,6 @@
+git init
+git status
+git status -s
+git config user.email
+git add <nome-do-arquivo ou caminho>
+git commit -m <mensagem-do-commit>
