@@ -9,7 +9,7 @@ git commit -m <mensagem-do-commit>
 alterado novamente
 
 Ingredientes:
-2 xícaras (chá) de açúcar
+3 xícaras (chá) de açúcar
 farinha de trigo
 3 xícaras (chá) de farinha de trigo
 margarina
